@@ -44,7 +44,7 @@ type SystemInfoModel struct {
 
 // Initialize model
 func (model *SystemInfoModel) init() {
-    // Connect to refresh signal
+	// Connect to refresh signal
 	model.ConnectRefresh(model.refresh)
 
 	kernel, _ := host.KernelVersion()
