@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Top
+Categories=Applications;
+Exec=invoker --single-instance --type=qtquick2 /usr/bin/asteroid-top
+Icon=ios-pulse-outline
+X-Asteroid-Center-Color=#2171b5
+X-Asteroid-Outer-Color=#6baed6
