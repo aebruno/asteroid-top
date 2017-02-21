@@ -7,6 +7,9 @@ Go. It displays the Linux kernel version, CPU load, memory usage, disk usage,
 and load averages (1,5,15 min). This app is mean to serve as an example of
 writing Go apps for AsteroidOS.
 
+.. image:: docs/asteroid-top-screenshot.png
+    :align: right
+
 -------------------------------------------------------------------------------
 Building from source
 -------------------------------------------------------------------------------
